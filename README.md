@@ -6,7 +6,7 @@ This is a simple react app to show the Rick and Morty characters with this open 
 
 ## Live link:
 
-Access my live project at [google.com](https://google.com)
+Access my live project at [https://rick-and-morty-app-snowy.vercel.app/](https://rick-and-morty-app-snowy.vercel.app/)
 
 ## Screenshots
 
