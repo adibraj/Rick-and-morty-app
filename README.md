@@ -10,11 +10,11 @@ Access my live project at [google.com](https://google.com)
 
 ## Screenshots
 
-`![Landing Page](https://res.cloudinary.com/mdevang10/image/upload/v1658404089/Adib/Screen_Shot_2022-07-21_at_4.30.42_PM_wvd6sw.png)`
+![Landing Page](https://res.cloudinary.com/mdevang10/image/upload/v1658404089/Adib/Screen_Shot_2022-07-21_at_4.30.42_PM_wvd6sw.png)
 
-`![Landing Page With Filter option](https://res.cloudinary.com/mdevang10/image/upload/v1658404079/Adib/Screen_Shot_2022-07-21_at_4.31.34_PM_jtfrjs.png)`
+![Landing Page With Filter option](https://res.cloudinary.com/mdevang10/image/upload/v1658404079/Adib/Screen_Shot_2022-07-21_at_4.31.34_PM_jtfrjs.png)
 
-`![Character Detail](https://res.cloudinary.com/mdevang10/image/upload/v1658404082/Adib/Screen_Shot_2022-07-21_at_4.31.42_PM_utm8lz.png)`
+![Character Detail](https://res.cloudinary.com/mdevang10/image/upload/v1658404082/Adib/Screen_Shot_2022-07-21_at_4.31.42_PM_utm8lz.png)
 
 ## Technologies
 
@@ -53,7 +53,7 @@ yarn run test
 yarn test --coverage
 ```
 
-`(![https://res.cloudinary.com/mdevang10/image/upload/v1658404066/Adib/Screen_Shot_2022-07-21_at_4.45.31_PM_qhmdzc.png])`
+![Test Coverage](https://res.cloudinary.com/mdevang10/image/upload/v1658404066/Adib/Screen_Shot_2022-07-21_at_4.45.31_PM_qhmdzc.png)
 
 ## Project Structure
 
